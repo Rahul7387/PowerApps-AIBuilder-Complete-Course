@@ -1,6 +1,5 @@
-# Day 02 — AI Builder: Form Processing
+# Module 02 — AI Builder: Form Processing
 
-**Duration:** 2 Hours | **Faculty:** Krisnendu Roy
 
 ---
 
@@ -112,4 +111,4 @@ Step 4: Apply to each (LineItems)
 **Project:** Invoice Automation System
 **Business value:** Eliminates manual data entry for 50+ invoices/day (~12.5 hours/week saved)
 
-*Next: [Day 03 — Object Detection →](../Day-03-Object-Detection-Image-Models/README.md)*
+*Next: [Module 03 — Object Detection →](../Module-03-Object-Detection-Image-Models/README.md)*

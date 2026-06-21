@@ -11,7 +11,7 @@ Contributions, corrections, and improvements are welcome!
 
 ## Ideas for Contributions
 
-- Additional lab scenarios per day
+- Additional lab scenarios per module
 - Sample data files for model training (CSV, PDF)
 - PowerFx formula cheat sheet additions
 - Video walkthrough links

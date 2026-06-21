@@ -1,6 +1,5 @@
-# Day 08 — Power Pages Development
+# Module 08 — Power Pages Development
 
-**Duration:** 2 Hours | **Faculty:** Krisnendu Roy
 
 ---
 
@@ -147,4 +146,4 @@ Create flow: new ITTicket record → AI Builder classify → Teams notification 
 **Auth:** Azure AD (SSO for employees)
 **Data isolation:** Contact scope — employees see only their own tickets
 
-*Next: [Day 09 — Custom Connectors →](../Day-09-Custom-Connectors/README.md)*
+*Next: [Module 09 — Custom Connectors →](../Module-09-Custom-Connectors/README.md)*

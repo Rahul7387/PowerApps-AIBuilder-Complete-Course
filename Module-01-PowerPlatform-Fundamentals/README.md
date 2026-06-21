@@ -1,6 +1,5 @@
-# Day 01 — Power Platform & AI Builder Fundamentals
+# Module 01 — Power Platform & AI Builder Fundamentals
 
-**Duration:** 2 Hours | **Faculty:** Krisnendu Roy
 
 ---
 
@@ -146,4 +145,4 @@ Invoices received by email automatically populate SharePoint — zero manual dat
 
 ---
 
-*Next: [Day 02 — Form Processing →](../Day-02-Form-Processing/README.md)*
+*Next: [Module 02 — Form Processing →](../Module-02-Form-Processing/README.md)*

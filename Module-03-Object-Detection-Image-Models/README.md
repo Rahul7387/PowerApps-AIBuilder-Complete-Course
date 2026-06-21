@@ -1,6 +1,5 @@
-# Day 03 — AI Builder: Object Detection & Image Models
+# Module 03 — AI Builder: Object Detection & Image Models
 
-**Duration:** 2 Hours | **Faculty:** Krisnendu Roy
 
 ---
 
@@ -135,4 +134,4 @@ Patch(InventoryCounts, Defaults(InventoryCounts), {
 **Project:** Smart Inventory Scanner
 **Business value:** Eliminates manual inventory counting, reduces stockout risk
 
-*Next: [Day 04 — Prediction & Classification →](../Day-04-Prediction-Classification/README.md)*
+*Next: [Module 04 — Prediction & Classification →](../Module-04-Prediction-Classification/README.md)*

@@ -1,6 +1,5 @@
-# Day 06 — AI Builder with Power Apps
+# Module 06 — AI Builder with Power Apps
 
-**Duration:** 2 Hours | **Faculty:** Krisnendu Roy
 
 ---
 
@@ -146,4 +145,4 @@ Button: "Submit Another" → Navigate(Screen1)
 **Project:** AI-Powered IT Helpdesk App
 **User benefit:** 60% reduction in ticket form completion time
 
-*Next: [Day 07 — Advanced Scenarios →](../Day-07-Advanced-Scenarios/README.md)*
+*Next: [Module 07 — Advanced Scenarios →](../Module-07-Advanced-Scenarios/README.md)*

@@ -1,6 +1,5 @@
-# Day 07 — Advanced AI Builder Scenarios
+# Module 07 — Advanced AI Builder Scenarios
 
-**Duration:** 2 Hours | **Faculty:** Krisnendu Roy
 
 ---
 
@@ -159,4 +158,4 @@ After Invoice creation:
 | Delivery Receipt | Document Processing (custom) | Child flow |
 | Unknown | Category Classification | Exception queue |
 
-*Next: [Day 08 — Power Pages →](../Day-08-Power-Pages/README.md)*
+*Next: [Module 08 — Power Pages →](../Module-08-Power-Pages/README.md)*

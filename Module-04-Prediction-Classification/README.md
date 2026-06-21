@@ -1,6 +1,5 @@
-# Day 04 — AI Builder: Prediction & Category Classification
+# Module 04 — AI Builder: Prediction & Category Classification
 
-**Duration:** 2 Hours | **Faculty:** Krisnendu Roy
 
 ---
 
@@ -125,4 +124,4 @@ Expected: Sentiment=Negative, Category=Product, Teams alert sent
 | Alert | Teams notification |
 | Reporting | Dataverse → Power BI |
 
-*Next: [Day 05 — Power Automate Integration →](../Day-05-PowerAutomate-Integration/README.md)*
+*Next: [Module 05 — Power Automate Integration →](../Module-05-PowerAutomate-Integration/README.md)*

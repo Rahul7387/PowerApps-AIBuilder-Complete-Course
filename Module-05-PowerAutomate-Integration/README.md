@@ -1,6 +1,5 @@
-# Day 05 — AI Builder + Power Automate Integration
+# Module 05 — AI Builder + Power Automate Integration
 
-**Duration:** 2 Hours | **Faculty:** Krisnendu Roy
 
 ---
 
@@ -118,4 +117,4 @@ Send test emails:
 **Project:** Intelligent Support Ticket Router
 **ROI:** Eliminates 2+ hours/day of manual sorting for 3 agents = 6 person-hours/day saved
 
-*Next: [Day 06 — Power Apps Integration →](../Day-06-PowerApps-Integration/README.md)*
+*Next: [Module 06 — Power Apps Integration →](../Module-06-PowerApps-Integration/README.md)*

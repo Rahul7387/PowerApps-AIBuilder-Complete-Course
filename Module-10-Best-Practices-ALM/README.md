@@ -1,6 +1,5 @@
-# Day 10 — Power Platform Best Practices & ALM
+# Module 10 — Power Platform Best Practices & ALM
 
-**Duration:** 2 Hours | **Faculty:** Krisnendu Roy
 
 ---
 

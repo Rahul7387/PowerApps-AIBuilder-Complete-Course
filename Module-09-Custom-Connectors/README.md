@@ -1,6 +1,5 @@
-# Day 09 — Custom Connectors
+# Module 09 — Custom Connectors
 
-**Duration:** 2 Hours | **Faculty:** Krisnendu Roy
 
 ---
 
@@ -170,4 +169,4 @@ Tap → `Launch(ThisItem.url)` to open full article.
 | WeatherAPI | weatherapi.com | API Key | Free (1M/month) |
 | NewsAPI | newsapi.org | API Key | Free (100/day) |
 
-*Next: [Day 10 — Best Practices & ALM →](../Day-10-Best-Practices-ALM/README.md)*
+*Next: [Module 10 — Best Practices & ALM →](../Module-10-Best-Practices-ALM/README.md)*

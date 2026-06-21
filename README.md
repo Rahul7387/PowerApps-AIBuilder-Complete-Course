@@ -5,9 +5,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-> **Faculty:** Krisnendu Roy | **Duration:** 20 Hours (10 Days × 2 Hours) | **Level:** Beginner to Advanced
-
-A comprehensive, hands-on course covering Microsoft Power Platform and AI Builder — from fundamentals to enterprise-grade deployments. Every day includes detailed theory, step-by-step labs, POC projects, and best practices from 20+ years of real-world experience.
+> **Faculty:** Krisnendu Roy | 
+A comprehensive, hands-on course covering Microsoft Power Platform and AI Builder — from fundamentals to enterprise-grade deployments. Every module includes detailed theory, step-by-step labs, POC projects, and best practices from 20+ years of real-world experience.
 
 ---
 
@@ -15,16 +14,16 @@ A comprehensive, hands-on course covering Microsoft Power Platform and AI Builde
 
 | Day | Topic | Duration | POC Lab |
 |---|---|---|---|
-| [Day 01](./Day-01-PowerPlatform-Fundamentals/README.md) | Power Platform & AI Builder Fundamentals | 2 hrs | Invoice email processing flow |
-| [Day 02](./Day-02-Form-Processing/README.md) | AI Builder: Form Processing | 2 hrs | Invoice extraction to Dataverse |
-| [Day 03](./Day-03-Object-Detection-Image-Models/README.md) | Object Detection & Image Models | 2 hrs | Inventory recognition app |
-| [Day 04](./Day-04-Prediction-Classification/README.md) | Prediction & Category Classification | 2 hrs | Customer feedback analyzer |
-| [Day 05](./Day-05-PowerAutomate-Integration/README.md) | AI Builder + Power Automate | 2 hrs | Support ticket classification |
-| [Day 06](./Day-06-PowerApps-Integration/README.md) | AI Builder with Power Apps | 2 hrs | AI-powered IT helpdesk app |
-| [Day 07](./Day-07-Advanced-Scenarios/README.md) | Advanced AI Builder Scenarios | 2 hrs | Enterprise document automation |
-| [Day 08](./Day-08-Power-Pages/README.md) | Power Pages Development | 2 hrs | Employee self-service portal |
-| [Day 09](./Day-09-Custom-Connectors/README.md) | Custom Connectors | 2 hrs | Weather & news API connector |
-| [Day 10](./Day-10-Best-Practices-ALM/README.md) | Best Practices & ALM | 2 hrs | Deployment pipeline setup |
+| [Module 01](./Module-01-PowerPlatform-Fundamentals/README.md) | Power Platform & AI Builder Fundamentals | 2 hrs | Invoice email processing flow |
+| [Module 02](./Module-02-Form-Processing/README.md) | AI Builder: Form Processing | 2 hrs | Invoice extraction to Dataverse |
+| [Module 03](./Module-03-Object-Detection-Image-Models/README.md) | Object Detection & Image Models | 2 hrs | Inventory recognition app |
+| [Module 04](./Module-04-Prediction-Classification/README.md) | Prediction & Category Classification | 2 hrs | Customer feedback analyzer |
+| [Module 05](./Module-05-PowerAutomate-Integration/README.md) | AI Builder + Power Automate | 2 hrs | Support ticket classification |
+| [Module 06](./Module-06-PowerApps-Integration/README.md) | AI Builder with Power Apps | 2 hrs | AI-powered IT helpdesk app |
+| [Module 07](./Module-07-Advanced-Scenarios/README.md) | Advanced AI Builder Scenarios | 2 hrs | Enterprise document automation |
+| [Module 08](./Module-08-Power-Pages/README.md) | Power Pages Development | 2 hrs | Employee self-service portal |
+| [Module 09](./Module-09-Custom-Connectors/README.md) | Custom Connectors | 2 hrs | Weather & news API connector |
+| [Module 10](./Module-10-Best-Practices-ALM/README.md) | Best Practices & ALM | 2 hrs | Deployment pipeline setup |
 
 ---
 
@@ -71,34 +70,34 @@ powerplatform-aibuilder-course/
 ├── resources/
 │   └── quick-reference.md             ← Formulas, naming conventions, credit guide
 │
-├── Day-01-PowerPlatform-Fundamentals/
+├── Module-01-PowerPlatform-Fundamentals/
 │   └── README.md                      ← Theory + Lab: Invoice email flow
 │
-├── Day-02-Form-Processing/
+├── Module-02-Form-Processing/
 │   └── README.md                      ← Theory + Lab: Custom invoice model
 │
-├── Day-03-Object-Detection-Image-Models/
+├── Module-03-Object-Detection-Image-Models/
 │   └── README.md                      ← Theory + Lab: Inventory scanner app
 │
-├── Day-04-Prediction-Classification/
+├── Module-04-Prediction-Classification/
 │   └── README.md                      ← Theory + Lab: Feedback analyzer
 │
-├── Day-05-PowerAutomate-Integration/
+├── Module-05-PowerAutomate-Integration/
 │   └── README.md                      ← Theory + Lab: Ticket routing flow
 │
-├── Day-06-PowerApps-Integration/
+├── Module-06-PowerApps-Integration/
 │   └── README.md                      ← Theory + Lab: AI helpdesk app
 │
-├── Day-07-Advanced-Scenarios/
+├── Module-07-Advanced-Scenarios/
 │   └── README.md                      ← Theory + Lab: Enterprise doc automation
 │
-├── Day-08-Power-Pages/
+├── Module-08-Power-Pages/
 │   └── README.md                      ← Theory + Lab: Self-service portal
 │
-├── Day-09-Custom-Connectors/
+├── Module-09-Custom-Connectors/
 │   └── README.md                      ← Theory + Lab: API connectors
 │
-└── Day-10-Best-Practices-ALM/
+└── Module-10-Best-Practices-ALM/
     └── README.md                      ← Theory + Lab: ALM & deployment pipelines
 ```
 
@@ -127,4 +126,4 @@ Every concept in this course is taught with:
 
 ---
 
-*Start learning: [Day 01 — Power Platform & AI Builder Fundamentals →](./Day-01-PowerPlatform-Fundamentals/README.md)*
+*Start learning: [Module 01 — Power Platform & AI Builder Fundamentals →](./Module-01-PowerPlatform-Fundamentals/README.md)*

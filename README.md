@@ -10,7 +10,7 @@ A comprehensive, hands-on course covering Microsoft Power Platform and AI Builde
 
 ---
 
-## 📅 Course Schedule
+## 📅 Modules
 
 | Module | Topic | POC Lab |
 |---|---|---|

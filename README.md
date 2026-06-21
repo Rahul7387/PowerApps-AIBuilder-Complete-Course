@@ -12,18 +12,18 @@ A comprehensive, hands-on course covering Microsoft Power Platform and AI Builde
 
 ## 📅 Course Schedule
 
-| Day | Topic | Duration | POC Lab |
-|---|---|---|---|
-| [Module 01](./Module-01-PowerPlatform-Fundamentals/README.md) | Power Platform & AI Builder Fundamentals | 2 hrs | Invoice email processing flow |
-| [Module 02](./Module-02-Form-Processing/README.md) | AI Builder: Form Processing | 2 hrs | Invoice extraction to Dataverse |
-| [Module 03](./Module-03-Object-Detection-Image-Models/README.md) | Object Detection & Image Models | 2 hrs | Inventory recognition app |
-| [Module 04](./Module-04-Prediction-Classification/README.md) | Prediction & Category Classification | 2 hrs | Customer feedback analyzer |
-| [Module 05](./Module-05-PowerAutomate-Integration/README.md) | AI Builder + Power Automate | 2 hrs | Support ticket classification |
-| [Module 06](./Module-06-PowerApps-Integration/README.md) | AI Builder with Power Apps | 2 hrs | AI-powered IT helpdesk app |
-| [Module 07](./Module-07-Advanced-Scenarios/README.md) | Advanced AI Builder Scenarios | 2 hrs | Enterprise document automation |
-| [Module 08](./Module-08-Power-Pages/README.md) | Power Pages Development | 2 hrs | Employee self-service portal |
-| [Module 09](./Module-09-Custom-Connectors/README.md) | Custom Connectors | 2 hrs | Weather & news API connector |
-| [Module 10](./Module-10-Best-Practices-ALM/README.md) | Best Practices & ALM | 2 hrs | Deployment pipeline setup |
+| Module | Topic | POC Lab |
+|---|---|---|
+| [Module 01](./Module-01-PowerPlatform-Fundamentals/README.md) | Power Platform & AI Builder Fundamentals | Invoice email processing flow |
+| [Module 02](./Module-02-Form-Processing/README.md) | AI Builder: Form Processing | Invoice extraction to Dataverse |
+| [Module 03](./Module-03-Object-Detection-Image-Models/README.md) | Object Detection & Image Models | Inventory recognition app |
+| [Module 04](./Module-04-Prediction-Classification/README.md) | Prediction & Category Classification | Customer feedback analyzer |
+| [Module 05](./Module-05-PowerAutomate-Integration/README.md) | AI Builder + Power Automate | Support ticket classification |
+| [Module 06](./Module-06-PowerApps-Integration/README.md) | AI Builder with Power Apps | AI-powered IT helpdesk app |
+| [Module 07](./Module-07-Advanced-Scenarios/README.md) | Advanced AI Builder Scenarios | Enterprise document automation |
+| [Module 08](./Module-08-Power-Pages/README.md) | Power Pages Development | Employee self-service portal |
+| [Module 09](./Module-09-Custom-Connectors/README.md) | Custom Connectors | Weather & news API connector |
+| [Module 10](./Module-10-Best-Practices-ALM/README.md) | Best Practices & ALM | Deployment pipeline setup |
 
 ---
 

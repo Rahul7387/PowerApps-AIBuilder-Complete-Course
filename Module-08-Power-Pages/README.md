@@ -66,7 +66,7 @@ Power Apps / Power Automate (internal processes)
 
 ---
 
-## ✅ Best Practices — Day 8
+## ✅ Best Practices
 
 1. **Plan web roles and permissions before building** — draw a role × permission matrix first
 2. **Use Contact scope for customer data** — never Global scope for external portals

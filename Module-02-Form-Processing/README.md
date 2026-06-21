@@ -39,7 +39,7 @@
 
 ---
 
-## ✅ Best Practices — Day 2
+## ✅ Best Practices
 
 1. **Use 15+ sample documents** — 5 is minimum but gives poor accuracy
 2. **Include document variations** — different layouts, fonts, formats

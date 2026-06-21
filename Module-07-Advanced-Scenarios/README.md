@@ -71,7 +71,7 @@ Layer 5: Action (approve, update ERP, archive, notify, escalate)
 
 ---
 
-## ✅ Best Practices — Day 7
+## ✅ Best Practices
 
 1. **Design for failure from the start** — every AI call can fail; plan for it
 2. **Build audit trail** — every AI decision: input + output + confidence + timestamp + user

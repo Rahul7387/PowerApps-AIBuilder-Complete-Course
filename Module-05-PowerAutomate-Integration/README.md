@@ -44,7 +44,7 @@ On every AI Builder step:
 
 ---
 
-## ✅ Best Practices — Day 5
+## ✅ Best Practices
 
 1. **Always have a fallback path** — AI calls can fail; plan backup routes
 2. **Use concurrency control** — limit parallel runs to prevent throttling

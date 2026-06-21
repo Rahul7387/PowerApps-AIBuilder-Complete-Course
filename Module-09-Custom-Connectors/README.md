@@ -52,7 +52,7 @@ A wrapper around a REST API that makes it available as a native action in Power 
 
 ---
 
-## ✅ Best Practices — Day 9
+## ✅ Best Practices
 
 1. **Store API keys in environment variables** — never hardcode in connectors
 2. **Test every operation** in the connector tester before using in a flow

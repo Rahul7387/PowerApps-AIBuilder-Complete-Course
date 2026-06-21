@@ -52,7 +52,7 @@
 
 ---
 
-## ✅ Best Practices — Day 3
+## ✅ Best Practices
 
 1. **Collect images in the actual deployment environment** — lab photos won't work on factory floor
 2. **Include "negative" images** — images WITHOUT the target object

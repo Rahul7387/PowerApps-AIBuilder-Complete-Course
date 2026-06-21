@@ -38,7 +38,7 @@ Set(varSummary, 'MyPrompt'.Predict({InputText: txtContent.Text}).summary)
 
 ---
 
-## ✅ Best Practices — Day 6
+## ✅ Best Practices
 
 1. **Show loading spinners** — GPT calls take 2-5 seconds; never leave the user wondering
 2. **Make AI optional** — always allow users to skip AI and enter manually

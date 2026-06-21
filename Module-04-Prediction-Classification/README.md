@@ -38,7 +38,7 @@ Returns: Positive / Negative / Neutral / Mixed + score 0-1
 
 ---
 
-## ✅ Best Practices — Day 4
+## ✅ Best Practices
 
 1. **Validate data quality FIRST** — garbage in, garbage out
 2. **Check class imbalance** — 95% "No churn" makes accuracy meaningless

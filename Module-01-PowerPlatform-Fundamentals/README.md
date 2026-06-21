@@ -77,7 +77,7 @@ User → Power Apps → Power Automate → AI Builder → Dataverse
 
 ---
 
-## ✅ Best Practices — Day 1
+## ✅ Best Practices
 
 1. **Always use a DEV environment** — never experiment in production
 2. **Name environments clearly** — CONTOSO-ITAPP-DEV, CONTOSO-ITAPP-PROD

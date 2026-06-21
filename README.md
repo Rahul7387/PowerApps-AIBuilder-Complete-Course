@@ -1,12 +1,11 @@
-# 🤖 Microsoft Power Platform & AI Builder — Complete 10-Day Course
+# 🤖 Microsoft Power Platform & AI Builder
 
 [![Power Platform](https://img.shields.io/badge/Microsoft-Power%20Platform-742774?style=flat&logo=microsoft)](https://powerplatform.microsoft.com)
 [![AI Builder](https://img.shields.io/badge/AI-Builder-0078D4?style=flat&logo=microsoft)](https://aka.ms/AIBuilder)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-> **Faculty:** Krisnendu Roy | 
-A comprehensive, hands-on course covering Microsoft Power Platform and AI Builder — from fundamentals to enterprise-grade deployments. Every module includes detailed theory, step-by-step labs, POC projects, and best practices from 20+ years of real-world experience.
+A comprehensive, hands-on moduels covering Microsoft Power Platform and AI Builder — from fundamentals to enterprise-grade deployments. Every module includes detailed theory, step-by-step labs, POC projects, and best practices with real-world experience.
 
 ---
 
@@ -114,11 +113,7 @@ powerplatform-aibuilder-course/
 
 ---
 
-## 👨‍🏫 About the Instructor
-
-**Krisnendu Roy** — 20+ years of enterprise Power Platform experience. This course reflects lessons learned across hundreds of real-world deployments, from small automations to global enterprise rollouts.
-
-Every concept in this course is taught with:
+Every concept in this here is explained with:
 - Real-world context — not just features, but *when* and *why*
 - Step-by-step labs — no guessing, no assumptions
 - Best practices — things that took years to learn
